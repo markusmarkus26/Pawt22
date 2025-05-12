@@ -1,0 +1,44 @@
+#container > div.framer-180tpix > div.framer-1b72z2f > div > svg > foreignObject > p
+{
+    transform: translate(75px, 0);
+}
+
+#container > div.framer-15gdleg > div.framer-u6a58w > div.framer-1kr2u2n > div.framer-v0sm8f > div.framer-1ujkji3 > div > p:nth-child(2){
+    display: none;
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 > div.framer-1hhobqg-container > a > div > div
+{
+    display: none;
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 > div.framer-1hhobqg-container > a > div
+{
+    position: relative;
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 > div.framer-1hhobqg-container > a > div::after {
+    position: absolute;
+    content: 'BUY';
+    z-index: 1000;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-family: "Press Start 2P", sans-serif;
+    transition: all .3s ease;
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 > div.framer-1hhobqg-container > a > div:hover::after {
+    color: rgb(107, 255, 15);
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 > div.framer-1hhobqg-container > a {
+    overflow: visible !important;
+}
+
+#container > div.framer-1iezffq > div.framer-1kjny2a > div.framer-1rt1dkg > div > div.framer-1gc51a4 {
+    gap: 45px !important;
+}
+
